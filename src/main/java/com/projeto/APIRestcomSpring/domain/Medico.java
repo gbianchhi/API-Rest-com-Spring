@@ -18,15 +18,15 @@ public class Medico {
     private long id;
 
     private String nome;
-    private String CRM;
+    private String crm;
     private int telefone;
     private int celular;
     private String status;
-    private String CEP;
+    private String cep;
     private String logradouro;
     private String complemento;
     private String bairro;
-    private String UF;
+    private String uf;
     private String especialidade;
 
 
